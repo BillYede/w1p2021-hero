@@ -1,16 +1,47 @@
 <template>
   <div class="big-header">
-    <h1>Choisir un objet</h1>
+    <h1>Objet de départ</h1>
+    <img class="background" src="../assets/character.jpg">
 
-      <img src="../assets/blue.jpeg" alt="">
-      <router-link class="button" to="/game/1"><button class="button" @click="boussole">Choisir</button></router-link>
-      <img src="../assets/blue.jpeg" alt="">
-      <router-link class="button" to="/game/1"> <button class="button" @click="epee">Choisir</button> </router-link>
+
+      <div class="character--wrapper">
+        <div class="outil--wrapper">
+          <img src="../assets/boussole.png" class="illustration">
+          <router-link class="" to="/game/1"><button class="button  button--character" @click="boussole">Choisir la boussole</button></router-link>
+        </div>
+        <div class="outil--wrapper">
+          <img src="../assets/epee.png" class="illustration">
+          <router-link class="" to="/game/1"> <button class="button  button--character" @click="epee">Choisir l'épée</button> </router-link>
+        </div>
+    </div>
 
   </div>
 </template>
 
 <style>
+
+  .character--wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    width: 70vw;
+    height: 400px;
+  }
+
+  .outil--wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .illustration {
+    height: 200px;
+    margin-bottom: 30px;
+  }
+
 
 </style>
 

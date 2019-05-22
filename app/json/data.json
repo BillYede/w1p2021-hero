@@ -1,71 +1,184 @@
 {
     "1": {
-        "text": "Bill le boss",
+        "text": "Vous êtes Guybrush Threepwood et vous voulez devenir pirate",
         "choix1": "2",
-        "choix2": "3",
-        "img": "./../assets/blue.jpeg"
+        "choix2": "",
+        "button1": "Suivant",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/debut.png"
     },
     "2": {
-        "text": "Here lies a square",
+        "text": "Pour cela, vous devrez d'abord vous procurer du matériel",
         "choix1": "3",
-        "choix2": "4",
-        "img": "./../assets/blue.jpeg"
+        "choix2": "",
+        "button1": "Suivant",
+        "button2":"",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/debut.png"
     },
     "3": {
-        "text": "a square",
-        "choix": "4"
+        "text": "Par où commencer ?",
+        "choix1": "4",
+        "choix2": "",
+        "button1": "Aller à gauche",
+        "button2": "Aller à droite",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/debut.png"
     },
     "4": {
-        "text": "Here square",
-        "choix": "5"
+        "text": "Vous marchez vers le haut de l'île",
+        "choix1": "5",
+        "choix2": "",
+        "button1": "Continuer",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/gauche.png"
     },
     "5": {
-        "text": "a square",
-        "choix": "6"
+        "text": "Vous arrivez sur une falaise",
+        "choix1": "6",
+        "choix2": "7",
+        "button1": "Parler au vieil homme",
+        "button2": "Continuer la route",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/falaise.png"
     },
     "6": {
-        "text": "MOI",
-        "choix": "7"
+        "text": "C'est le gardien de l'île, il vous informe que vous vous dirigez vers une forêt",
+        "choix1": "7",
+        "choix2": "",
+        "button1": "Partir",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/falaise.png"
     },
     "7": {
-        "text": "Lucas",
-        "choix": "8"
+        "text": "Vous êtes à l'entrée de la forêt",
+        "choix1": "8",
+        "choix2": "9",
+        "choix3": "14",
+        "button1": "Aller à gauche",
+        "button2": "Aller à droite",
+        "button3": "Utiliser la boussole",
+        "button4": "",
+        "img": "./../assets/foret1.png"
     },
     "8": {
-        "text": "Eddie",
-        "choix": "9"
+        "text": "Vous vous enfoncez dans la forêt",
+        "choix1": "12",
+        "choix2": "10",
+        "button1": "Aller à gauche",
+        "button2": "Aller à droite",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foret4.png"
     },
     "9": {
-        "text": "Michel",
-        "choix": "10"
+        "text": "Vous marchez dans la forêt",
+        "choix1": "10",
+        "choix2": "11",
+        "button1": "Aller à gauche",
+        "button2": "Aller à droite",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foret3.png"
     },
     "10": {
-        "text": "Kevin",
-        "choix": "11"
+        "text": "Vous semblez perdu",
+        "choix1": "7",
+        "choix2": "",
+        "button1": "Aller à gauche",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foret7.png"
     },
     "11": {
-        "text": "Scott",
-        "choix": "12"
+        "text": "Il n'y a qu'un passage",
+        "choix1": "13",
+        "choix2": "",
+        "button1": "Aller à droite",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foret8.png"
     },
     "12": {
-        "text": "Michel",
-        "choix": "13"
+        "text": "Vous continuez de marcher dans la forêt",
+        "choix1": "10",
+        "choix2": "14",
+        "button1": "Aller à gauche",
+        "button2": "Aller à droite",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foret6.png"
     },
     "13": {
-        "text": "Romain",
-        "choix": "14"
+        "text": "Vous continuez de marcher dans la forêt",
+        "choix1": "10",
+        "choix2": "14",
+        "button1": "Aller à gauche",
+        "button2": "Aller à droite",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foret5.png"
     },
     "14": {
-        "text": "Jordan",
-        "choix": "15"
+        "text": "Vous apercevez un endroit dégagé plus loin",
+        "choix1": "15",
+        "choix2": "",
+        "button1": "S'y diriger",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foretaf.png"
     },
     "15": {
-        "text": "Patrick",
-        "choix": "16"
+        "text": "Une marque est présente au sol",
+        "choix1": "16",
+        "choix2": "",
+        "button1": "Creuser",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/foretf.png"
     },
     "16": {
-        "text": "Jean",
-        "choix": "17"
+        "text": "Bravo vous avez récupéré votre premier objet, une carte",
+        "choix1": "17",
+        "choix2": "",
+        "button1": "",
+        "button2": "",
+        "button3": "",
+        "button4": "Continuer",
+        "img": "./../assets/foretf.png"
+    },
+    "17": {
+        "text": "Vous retournez au point de départ",
+        "choix1": "18",
+        "choix2": "",
+        "button1": "Aller à droite",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/debut.png"
+    },
+    "18": {
+        "text": "Vous marchez vers l'intérieur de la ville",
+        "choix1": "19",
+        "choix2": "",
+        "button1": "Creuser",
+        "button2": "",
+        "button3": "",
+        "button4": "",
+        "img": "./../assets/f.png"
     }
 
 }
