@@ -1,13 +1,5 @@
 @import 'reset';
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
-$hetic-green: #0de595;
-body,
-button,
-input,
-select,
-textarea {
-    font-family: 'Roboto';
-}
 
 body {
     background: #111111;
@@ -65,6 +57,7 @@ body {
     border: none;
     position: relative;
     cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .wrapper--buttons {
@@ -81,4 +74,17 @@ h1 {
 .menu-popover-enter {
     opacity: 0;
     transform: rotateY(50deg);
+}
+
+.title--win {
+    font-size: 45px;
+    color: yellow;
+}
+.title--lose {
+    font-size: 45px;
+    color: white;
+}
+
+.big-header--losewin {
+    justify-content: space-around;
 }
