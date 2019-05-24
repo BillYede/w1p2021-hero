@@ -2,6 +2,11 @@
 
 URL du site : https://amazing-bill.netlify.com/
 
+### Groupe
+
+- Bill Wilson Yede Nka
+- Alexandre Mary
+
 
 | Type  | Objectif | Fait ? | 
 | ----- | -------- | ------ |
@@ -31,11 +36,6 @@ En fonction du choix effectué il pourra par exemple avec l'épée battre un adv
 | Multimédia | L'expérience présente un audio ou plus | OUI |
 | Multimédia | L'utilisateur a la possibilité de couper le son à tout moment | - |
 
-
-### Groupe
-
-- Bill Wilson Yede Nka
-- Alexandre Mary
 
 ## Prologue
 
