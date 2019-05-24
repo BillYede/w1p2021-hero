@@ -35,7 +35,7 @@ URL du site : https://amazing-bill.netlify.com/
 | Multimédia | L'expérience présente un audio ou plus | OUI |
 | Multimédia | L'utilisateur a la possibilité de couper le son à tout moment | - |
 
-![schema](file:///Users/bill/Documents/bill.png)
+![schema](https://github.com/BillYede/w1p2021-hero-YedeNka-Mary/blob/master/bill.png?raw=true)
 
 
 ## Prologue
