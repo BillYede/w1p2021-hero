@@ -26,7 +26,7 @@ URL du site : https://amazing-bill.netlify.com/
 | Transitions | Chaque page apparaît grâce à une transition fluide (la complexité de la transition n'est pas prise en compte ici) | OUI |
 | Transitions | Les transitions internes au jeu (d'une étape à une autre) et externes (intro, fin...) sont différentes | OUI |
 | État | Le choix du personnage et/ou de ses caractéristiques impacte l'aventure au moins une fois. **Indiquez ici comment succintement.** | Lors du début de l'aventure le joueur a le droit de choisir une boussole ou une épée. En fonction du choix effectué il pourra par exemple avec l'épée battre un adversaire et passez à une étape qui ne lui aurait pas été accessible sans.|
-| État | Une décision ou un événement aléatoire survenu pendant l'aventure a un impact sur la suite, au moins une fois. **Indiquez ici comment succintement.** | - |
+| État | Une décision ou un événement aléatoire survenu pendant l'aventure a un impact sur la suite, au moins une fois. **Indiquez ici comment succintement.** | Dans le jeu on peut prendre la décision soit d'attendre ou soit d'avancer ce qui a un impact sur la suite car cela détermine la mort ou l'avancer du joueur dans la partie. |
 | État | Le choix du personnage et/ou ce qu'il s'est passé pendant l'aventure impactent l'écran de fin. **Indiquez ici comment succintement.** | Le nombre de changements de pages effectués par l'intermédiaire de cliques sur les différents boutons est affiché sur l'écran de fin. |
 | État | Au moins un service (classe de type `GameService`) est utilisé | OUI |
 | Sauvegarde | Lorsqu'on recharge la page (`Ctrl + R`), le personnage, ses caractéristiques, les choix du joueur et tout le reste sont rétablis | OUI |
