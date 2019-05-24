@@ -35,6 +35,8 @@ URL du site : https://amazing-bill.netlify.com/
 | Multimédia | L'expérience présente un audio ou plus | OUI |
 | Multimédia | L'utilisateur a la possibilité de couper le son à tout moment | - |
 
+![schema](file:///Users/bill/Documents/bill.png)
+
 
 ## Prologue
 
